@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="矩形应用-立方体缩放.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.36168631"
+     inkscape:cx="-736.82634"
+     inkscape:cy="858.47872"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="-90.001768 : 83.871473 : 1"
+       inkscape:vp_y="0 : 1873.6828 : 0"
+       inkscape:vp_z="342.72988 : 83.871473 : 1"
+       inkscape:persp3d-origin="126.36406 : -8.8758254 : 1"
+       id="perspective852" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:1.00123;stroke-opacity:1"
+       id="rect1634"
+       width="72.232124"
+       height="73.518471"
+       x="-86.962494"
+       y="88.045807"
+       transform="matrix(0.9975537,0.06990436,0,1,0,0)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:0.831183;stroke-opacity:1"
+       id="rect1636"
+       width="49.373177"
+       height="74.124329"
+       x="-15.527499"
+       y="80.767242"
+       transform="matrix(0.91226355,-0.40960373,0,1,0,0)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:0.908747;stroke-opacity:1"
+       id="rect1638"
+       width="73.147133"
+       height="49.653717"
+       x="78.273415"
+       y="131.92149"
+       transform="matrix(0.9972064,0.07469532,-0.91055306,0.41339221,0,0)"
+       ry="0" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:1.00123;stroke-opacity:1"
+       id="rect2007"
+       width="190.603"
+       height="73.518478"
+       x="-204.56102"
+       y="203.20732"
+       transform="matrix(0.9975537,0.06990436,0,1,0,0)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:0.831183;stroke-opacity:1"
+       id="rect2009"
+       width="49.373177"
+       height="74.124329"
+       x="-14.68291"
+       y="196.3287"
+       transform="matrix(0.91226355,-0.40960373,0,1,0,0)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:0.908747;stroke-opacity:1"
+       id="rect2011"
+       width="73.147133"
+       height="49.653717"
+       x="297.38477"
+       y="371.03787"
+       transform="matrix(0.9972064,0.07469532,-0.91055306,0.41339221,0,0)"
+       ry="0" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:1.00123;stroke-opacity:1"
+       id="rect2013"
+       width="189.55264"
+       height="73.518463"
+       x="-203.08763"
+       y="319.12476"
+       transform="matrix(0.9975537,0.06990436,0,1,0,0)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:0.831183;stroke-opacity:1"
+       id="rect2015"
+       width="49.373177"
+       height="74.124329"
+       x="-14.220315"
+       y="312.46533"
+       transform="matrix(0.91226355,-0.40960373,0,1,0,0)" />
+    <rect
+       style="fill:#ff8080;fill-opacity:0.502041;stroke:#ffffff;stroke-width:0.908747;stroke-opacity:1"
+       id="rect2017"
+       width="189.13503"
+       height="49.653687"
+       x="401.59451"
+       y="611.72754"
+       transform="matrix(0.9972064,0.07469532,-0.91055306,0.41339221,0,0)"
+       ry="0" />
+  </g>
+</svg>
